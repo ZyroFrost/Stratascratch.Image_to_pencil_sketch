@@ -14,8 +14,8 @@ The project has some tips:
 5. Save the output sketched image.
 6. Display the image.
 ## Libraries Used
-OpenCV (cv2)
+OpenCV (cv2)<br>
 Matplotlib (matplotlib.pyplot)
 ## Output result
-Sketched image saved as sketch_image.jpg
+Sketched image saved as sketch_image.jpg<br>
 The image is shown in JupyterLab.
